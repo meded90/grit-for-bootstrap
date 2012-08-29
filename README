@@ -1,9 +1,10 @@
 grit for Bootstrap, from Twitter
 
-Плагин для подсветки сетки сайтов селаных на <a href="http://twitter.github.com/bootstrap/index.html">Bootstrap</a>
+Плагин для подсветки сетки сайтов селаных на css framework Bootstrap
+ http://twitter.github.com/bootstrap/index.html
 
 Плагин работе если на проекте использующийся HTML структур подобная этой: 
-<pre>
+
 <body>
   <div class="container">
     <div class="row">
@@ -13,4 +14,3 @@ grit for Bootstrap, from Twitter
     </div>
   </div>
 </body>
-</pre>
