@@ -17,7 +17,8 @@
  "permissions": [
      "tabs",
      "http://*/*",
-     "https://*/*"
+     "https://*/*",
+     "file:///*/*"
  ],
  "version": "2"
 }
