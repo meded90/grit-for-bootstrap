@@ -5,7 +5,7 @@ grit for Bootstrap, from Twitter
 
 Плагин работе если на проекте использующийся HTML структур подобная этой: 
 
-<body>
+```<body>
   <div class="container">
     <div class="row">
       <div class="span4">...</div>
@@ -13,4 +13,4 @@ grit for Bootstrap, from Twitter
       ....
     </div>
   </div>
-</body>
+</body>```
